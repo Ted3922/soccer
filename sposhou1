@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<style>
+p {
+	color:white;
+	background-color: black;
+	font-size: 50px;
+}
+</style>
+	
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35899030-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35899030-6');
+</script>
+
+	<title>4-3-3</title>
+</head>
+<body style="background-color: lime;">
+<p>
+	4-3-3システムの良いところは、<br>
+	ポゼッションスタイルに、<br>
+	適しているところです。<br>
+	ハイプレスもできます。<br>
+	あまり特定の選手に負担が、<br>
+	集中しないのも良いところです。<br>
+	注意したいのはアンカーの、<br>
+	脇のスペースを使われることです。<br>
+</p>
+</body>
+</html>

@@ -24,12 +24,15 @@ li a:hover {
 .one {
     background-color: yellow;
     color: black;
+    display: inline-block;
 }
 .two {
     background-color: blue;
     color: white;
+    display: inline-block;
 }
 .three {
     background-color: olive;
     color: white;
+    display: inline-block;
 }

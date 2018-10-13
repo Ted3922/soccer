@@ -21,3 +21,15 @@ li a {
 li a:hover {
     background-color: white;
 }
+.one {
+    background-color: yellow;
+    color: black;
+}
+.two {
+    background-color: blue;
+    color: white;
+}
+.three {
+    background-color: olive;
+    color: white;
+}

@@ -25,14 +25,17 @@ li a:hover {
     background-color: yellow;
     color: black;
     display: inline-block;
+    font-weight: bold;
 }
 .two {
     background-color: blue;
     color: white;
     display: inline-block;
+    font-weight: bold;
 }
 .three {
     background-color: olive;
     color: white;
     display: inline-block;
+    font-weight: bold;
 }

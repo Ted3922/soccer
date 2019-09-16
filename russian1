@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<style>
+p {
+	color:white;
+	background-color: black;
+	font-size: 50px;
+}
+</style>
+	
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35899030-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35899030-6');
+</script>
+
+	<title>ロシア語を学ぼう</title>
+	<link href="https://ted3922.github.io/soccer/style.css" type="text/css" rel="stylesheet">
+
+</head>
+<body style="background-color: lime;">
+	<h1 style="background-color: white; color:red;text-align:center;font-size:100px;">
+		橘世界塾 </h1>
+	<ul>
+<li><a class="active" href="index.html">home</a></li>
+<li><a href="jpnhis.html">日本史</a></li>
+<li><a href="wldhis.html">世界史</a></li>
+<li><a href="geogra.html">地理</a></li>
+<li><a href="biolog.html">生物</a></li>
+<li><a href="physic.html">物理</a></li>
+<li><a href="chemis.html">化学</a></li>
+<li><a href="mathma.html">数学</a></li>
+<li><a href="englis.html">英語</a></li>
+<li><a href="jpnlng.html">国語</a></li>
+<li><a href="geolog.html">地学</a></li>
+<li><a href="ethics.html">倫理</a></li>
+<li><a href="poleco.html">政経</a></li>
+</ul>
+
+<p>
+ロシア語を勉強しましょう。<br>
+Я не знаю.　(I don't know.)<br>
+Я не понимаю.  (I don't understand.)<br>
+この２つの文の違いがわかりますか?<br>
+日本語ではどちらの文の訳も、<br>
+「私はわかりません」ですね。<br>
+しかし英語ではどうでしょうか。<br>
+Knowは「知る」という意味です。<br>
+Understandは「理解する」という意味です。<br>
+私は彼を知っている。<br>
+私は彼を理解している。<br>
+どういう違いがあるでしょう。<br>
+私はロナウドを知っている。<br>
+私はロナウドを理解している。<br>
+相対性理論で有名な、<br>
+アインシュタインは、<br>
+こう言ったそうです。<br>
+「どんなどあほうでも、<br>
+知ることはできる。<br>
+問題は理解できるかどうかだ。」<br>
+私はりんごを知っている。<br>
+私はりんごを理解している。<br>
+りんごは日本人なら多くの、<br>
+人が食べたことがありますね。<br>
+よってりんごを知らない人は少ない。<br>
+しかしりんごを理解している人は、<br>
+果たして多いでしょうか?<br>
+りんごの成分や育て方…。<br>
+皆さん知っていますか？<br>
+「１日１個のりんごは、<br>
+医者を遠ざける」という、<br>
+ことわざがありますね。<br>
+それほど身体に良いって、<br>
+ことですね。話をもとに、<br>
+戻しましょう。<br>
+知っているということは、<br>
+「食べたことがある」でも、<br>
+「見たことがある」でも良いわけです。<br>
+しかしそれだけでは理解していると、<br>
+言うには十分ではない。<br>
+KnowとUnderstandの違い、<br>
+少しは参考になったでしょうか。<br>
+これからも一緒に勉強していきましょう。
+</p>
+</body>
+</html>

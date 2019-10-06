@@ -1,6 +1,6 @@
 div.back {
  display: inline-block;
- background-image: url(../Image/chouchou.gif);
+ /*background-image: url(../Image/chouchou.gif);  */
  background-repeat: no-repeat;
  background-size: cover;
  width: 100%;

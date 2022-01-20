@@ -3,6 +3,10 @@
     font-size: 40px;
 }
 
+a.nav-link.active {
+  color: orange!important;
+}
+
 p {
     color: black;
     background-color: white;

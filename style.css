@@ -11,6 +11,7 @@ p {
     color: black;
     background-color: DarkOrange;
     font-size: x-large;
+    width: fit-content;
 }
 
 ul {

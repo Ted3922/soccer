@@ -12,6 +12,7 @@ p {
     background-color: DarkOrange;
     font-size: x-large;
     width: fit-content;
+    margin-left: 5rem;
 }
 
 ul {
